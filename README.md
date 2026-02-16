@@ -1,13 +1,13 @@
 # repo1
-##proje acıklaması
+## proje acıklaması
 Bu proje, muhasebe işlemleri web uzerinden kullandıracak.
-##hedef kullanıcı 
+## hedef kullanıcı 
 Büyük veya küçük çaplı şirketler
-##temel özellikler
+## temel özellikler
 kullanıcı kayıt/giriş
 yetkilendirme sistemi
 görev dağıılımı
-##kullanılan teknolojiler
+## kullanılan teknolojiler
 HTML
 CSS
 JavaScript
@@ -17,4 +17,4 @@ Java
 Python
 JavaScript (Node.js)
 SQL
-##canlı link
+## canlı link
